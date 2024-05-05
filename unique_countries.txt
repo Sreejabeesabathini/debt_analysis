@@ -1,0 +1,136 @@
+Afghanistan
+Albania
+Algeria
+Angola
+Argentina
+Armenia
+Azerbaijan
+Bangladesh
+Belarus
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Central African Republic
+Chad
+China
+Colombia
+Comoros
+Congo, Dem. Rep.
+Congo, Rep.
+Costa Rica
+Cote d'Ivoire
+Djibouti
+Dominica
+Dominican Republic
+East Asia & Pacific (excluding high income)
+Ecuador
+Egypt, Arab Rep.
+El Salvador
+Eritrea
+Eswatini
+Ethiopia
+Europe & Central Asia (excluding high income)
+Fiji
+Gabon
+Gambia, The
+Georgia
+Ghana
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+IDA only
+IDA total
+India
+Indonesia
+Iran, Islamic Rep.
+Iraq
+Jamaica
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kyrgyz Republic
+Lao PDR
+Latin America & Caribbean (excluding high income)
+Least developed countries: UN classification
+Lebanon
+Lesotho
+Liberia
+Low & middle income
+Low income
+Lower middle income
+Madagascar
+Malawi
+Maldives
+Mali
+Mauritania
+Mauritius
+Mexico
+Middle East & North Africa (excluding high income)
+Middle income
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Nepal
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Pakistan
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Russian Federation
+Rwanda
+Samoa
+Sao Tome and Principe
+Senegal
+Serbia
+Sierra Leone
+Solomon Islands
+Somalia
+South Africa
+South Asia
+Sri Lanka
+St. Lucia
+St. Vincent and the Grenadines
+Sub-Saharan Africa (excluding high income)
+Sudan
+Suriname
+Syrian Arab Republic
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Tunisia
+Turkiye
+Turkmenistan
+Uganda
+Ukraine
+Upper middle income
+Uzbekistan
+Vanuatu
+Viet Nam
+Yemen, Rep.
+Zambia
+Zimbabwe
